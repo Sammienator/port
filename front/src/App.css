@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Mate:ital@0;1&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Namdhinggo:wght@400;500;600;700;800&display=swap');
+
+
+nav, h1,h2,h3, #three {
+  font-family: "Namdhinggo", serif;
+  font-weight: 500;
+  font-style: normal;
+}
+
+
+
+p, form {
+  font-family: "Mate", serif;
+  font-weight: 600;
+  font-style: regular;
+}
